@@ -1,9 +1,11 @@
-html, body {
+html.dashed {
   height: 100%;
   margin: 5;
   width: 100%;
   border: 3px dashed black;
   padding: 2px;
+  background: grey;
+  text-align: justify;
   
 }
 
