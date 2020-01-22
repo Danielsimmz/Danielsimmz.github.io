@@ -1,9 +1,10 @@
 html.dashed {
-  height: 550px;
+   height: 1950px;
   margin: 20px auto;
-  width: 550px;
+  width: 850px;
   padding: 2px;
-  background: grey;
+  background: beige;
+  border: dashed 10px black;
   
 }
 
