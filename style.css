@@ -1,27 +1,31 @@
-html.dashed {
+.dashed {
    height: 1950px;
   margin: 20px auto;
   width: 850px;
   padding: 2px;
-  background: beige;
+  background: #ccffcc;
   border: dashed 10px black;
-  
 }
 
 h1 {
   font-family: Georgia;
   font-size: 48px;
-  color: blue;
+  color: red;
   
 }
 
 h2 {
 font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', serif;
+color:blue;
   
 }
 
 h3 {
   font-size: 28px;
+  
+}
+p {
+  font-size: 22px;
   
 }
