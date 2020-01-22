@@ -1,10 +1,10 @@
 .dashed {
    height: 1950px;
-  margin: 5px auto;
+  margin: 15px auto;
   width: 850px;
   padding: 2px;
   background: #ccffcc;
-  border: dashed 10px black;
+  border: dashed 3px black;
 }
 
 h1 {
